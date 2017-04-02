@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Steam Wishlist Tools
 // @author      ZeroUnderscoreOu
-// @version     1.1.0
+// @version     1.1.1
 // @icon        
 // @namespace   https://github.com/ZeroUnderscoreOu/
 // @match       http://steamcommunity.com/id/*/wishlist*
