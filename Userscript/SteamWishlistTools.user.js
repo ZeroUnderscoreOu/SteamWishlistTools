@@ -6,6 +6,7 @@
 // @namespace   https://github.com/ZeroUnderscoreOu/
 // @match       http://steamcommunity.com/id/*/wishlist*
 // @match       http://steamcommunity.com/profiles/*/wishlist*
+// @connect     steamgifts.com
 // @grant       GM_xmlhttpRequest
 // ==/UserScript==
 
